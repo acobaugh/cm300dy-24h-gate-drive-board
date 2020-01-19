@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name cm300-board)(type KiCad)(uri ${KIPRJMOD}/cm300-board.pretty)(options "")(descr ""))
+  (lib (name IGBT-CM300-GATE)(type KiCad)(uri ${KIPRJMOD}/cm300-board.pretty/IGBT-CM300-GATE.pretty)(options "")(descr ""))
+)
