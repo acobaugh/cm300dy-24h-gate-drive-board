@@ -1,0 +1,8 @@
+Plotted to '/home/acobaugh/code.d/github.com/acobaugh/cm300dy-24h-gate-drive-board/cm300-board-F_Cu.gbr'.
+Plotted to '/home/acobaugh/code.d/github.com/acobaugh/cm300dy-24h-gate-drive-board/cm300-board-B_Cu.gbr'.
+Plotted to '/home/acobaugh/code.d/github.com/acobaugh/cm300dy-24h-gate-drive-board/cm300-board-F_Silkscreen.gbr'.
+Plotted to '/home/acobaugh/code.d/github.com/acobaugh/cm300dy-24h-gate-drive-board/cm300-board-B_Silkscreen.gbr'.
+Plotted to '/home/acobaugh/code.d/github.com/acobaugh/cm300dy-24h-gate-drive-board/cm300-board-F_Mask.gbr'.
+Plotted to '/home/acobaugh/code.d/github.com/acobaugh/cm300dy-24h-gate-drive-board/cm300-board-B_Mask.gbr'.
+Plotted to '/home/acobaugh/code.d/github.com/acobaugh/cm300dy-24h-gate-drive-board/cm300-board-Edge_Cuts.gbr'.
+Info: Done.
